@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <project path="vendor/gms" name="vendor_gms"   fetch="https://bitbucket.org/evo-x" revision="udc" clone-depth="1" /> 
+
+</manifest>   

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote name="gapps" fetch="https://gitlab.com" />
-  <project path="vendor/gapps" name="BlissLabs/BlissRoms/platform_vendor_gapps" remote="gapps" revision="universe" /> 
-</manifest>   
