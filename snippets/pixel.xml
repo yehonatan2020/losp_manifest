@@ -20,4 +20,6 @@
   <!-- Pixel 8a -->
   <remote name="aosp-akita" fetch="https://android.googlesource.com" review="android-review.googlesource.com" revision="refs/tags/android-14.0.0_r55" clone-depth="1" />
 
+   <project path="vendor/pixel-style" fetch="https://github.com" name="yehonatan2020/evo_vendor_pixel-style" revision="udc" />
+
 </manifest>
