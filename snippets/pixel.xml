@@ -22,4 +22,6 @@
 
    <project path="vendor/pixel-style" fetch="https://github.com" name="yehonatan2020/evo_vendor_pixel-style" revision="udc" />
 
+    <project path="vendor/certification" fetch="https://github.com" name="yehonatan2020/evo_vendor_certification" revision="udc" />
+
 </manifest>
