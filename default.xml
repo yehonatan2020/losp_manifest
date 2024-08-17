@@ -1344,4 +1344,5 @@
   <include name="snippets/lineage.xml" />
   <include name="snippets/pixel.xml" />
   <include name="snippets/gms.xml" />
+   <include name="snippets/blobs.xml" />
 </manifest>

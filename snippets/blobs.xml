@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project path="vendor/google/husky" fetch="https://github.com" name="yehonatan2020/vendor_google_husky" revision="udc" />
+
+</manifest>
